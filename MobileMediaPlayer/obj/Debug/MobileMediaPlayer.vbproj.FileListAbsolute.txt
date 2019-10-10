@@ -1,0 +1,107 @@
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe.config
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.pdb
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.xml
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.HomePage.resources
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.Resources.resources
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.GenerateResource.Cache
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.exe
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.xml
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.pdb
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbprojResolveAssemblyReference.cache
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.SettingPage.resources
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.PlayPage.resources
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.ResolveComReference.cache
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\Interop.WMPLib.dll
+Q:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe.config
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.ResolveComReference.cache
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.exe
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.xml
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.pdb
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.pdb
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.xml
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbprojResolveAssemblyReference.cache
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.HomePage.resources
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.Resources.resources
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.PlayPage.resources
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.SettingPage.resources
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.GenerateResource.Cache
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe.config
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.exe
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.xml
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.pdb
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.pdb
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.xml
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.HomePage.resources
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.Resources.resources
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.PlayPage.resources
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.SettingPage.resources
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.GenerateResource.Cache
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe.config
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.ResolveComReference.cache
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.exe
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.xml
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.pdb
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.pdb
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.xml
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\Interop.WMPLib.dll
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbprojResolveAssemblyReference.cache
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.HomePage.resources
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.Resources.resources
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.PlayPage.resources
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.SettingPage.resources
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.GenerateResource.Cache
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe.config
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.ResolveComReference.cache
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.exe
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.xml
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.pdb
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.pdb
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.xml
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\Interop.WMPLib.dll
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbprojResolveAssemblyReference.cache
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.HomePage.resources
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.Resources.resources
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.PlayPage.resources
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.SettingPage.resources
+H:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.GenerateResource.Cache
+Z:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.HelpPage.resources
+C:\Users\CourtChester\Documents\SOFTWARE ENGINEERING\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.HelpPage.resources
+D:\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.HelpPage.resources
+C:\Users\CourtChester\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe.config
+C:\Users\CourtChester\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\CourtChester\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\CourtChester\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\CourtChester\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.exe
+C:\Users\CourtChester\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.xml
+C:\Users\CourtChester\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.pdb
+D:\Quick Access\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\bin\Debug\MobileMediaPlayer.exe.config
+D:\Quick Access\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Quick Access\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Quick Access\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.vbproj.ResolveComReference.cache
+D:\Quick Access\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.exe
+D:\Quick Access\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.xml
+D:\Quick Access\Documents\Term 1\Event Driven Programming\Assignment 2\Program\MobileMediaPlayer\MobileMediaPlayer\obj\Debug\MobileMediaPlayer.pdb
